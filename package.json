@@ -1,6 +1,6 @@
 {
   "name": "@alex-playground/questions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Questions Widget",
   "main": "src/index.js",
   "scripts": {
